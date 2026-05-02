@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoLiving | Sustainable Lifestyle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">🌿 EcoLiving</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Tips</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Live Sustainably,<br>Live Better</h1>
+            <p>Join the movement towards a greener planet with simple daily changes</p>
+            <button class="cta-button">Get Started</button>
+        </section>
+
+        <section class="tips-section">
+            <h2>Simple Sustainable Tips</h2>
+            <div class="tips-container">
+                <div class="tip-card">
+                    <div class="emoji">💧</div>
+                    <h3>Save Water</h3>
+                    <p>Fix leaks and take shorter showers to conserve water.</p>
+                </div>
+                <div class="tip-card">
+                    <div class="emoji">♻️</div>
+                    <h3>Reduce Waste</h3>
+                    <p>Bring reusable bags and say no to single-use plastics.</p>
+                </div>
+                <div class="tip-card">
+                    <div class="emoji">🔌</div>
+                    <h3>Save Energy</h3>
+                    <p>Unplug devices when not in use and switch to LED bulbs.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="impact-section">
+            <h2>Our Impact So Far</h2>
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number">5,000+</span>
+                    <span class="stat-label">Active Members</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">10,000+</span>
+                    <span class="stat-label">Trees Planted</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">50,000+</span>
+                    <span class="stat-label">Plastics Reduced</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 EcoLiving. Every step counts toward a sustainable future.</p>
+    </footer>
+</body>
+</html>
