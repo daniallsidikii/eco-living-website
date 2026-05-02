@@ -177,6 +177,38 @@ nav {
     color: #2d3e2b;
 }
 
+/* Quote Section */
+.quote-section {
+    background-color: #e9ecef;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.quote-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.quote-text {
+    font-size: 1.8rem;
+    font-style: italic;
+    color: #2d6a4f;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+.quote-author {
+    font-size: 1.1rem;
+    color: #40916c;
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .quote-text {
+        font-size: 1.3rem;
+    }
+}
+
 /* Footer */
 footer {
     background-color: #1b4332;
